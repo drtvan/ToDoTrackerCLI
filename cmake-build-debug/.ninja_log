@@ -1,0 +1,7 @@
+# ninja log v6
+1	130	1731155320575807294	CMakeFiles/ToDoTrackerCLI.dir/main.cpp.o.ddi	c4cd2cb78da7e11b
+130	140	1731155320713805946	CMakeFiles/ToDoTrackerCLI.dir/CXX.dd	744ec12030dab937
+130	140	1731155320713805946	/home/dremu/CLionProjects/ToDoTrackerCLI/cmake-build-debug/CMakeFiles/ToDoTrackerCLI.dir/CXXModules.json	744ec12030dab937
+130	140	1731155320713805946	CMakeFiles/ToDoTrackerCLI.dir/main.cpp.o.modmap	744ec12030dab937
+140	676	1731155320714805937	CMakeFiles/ToDoTrackerCLI.dir/main.cpp.o	23819a62065a2a26
+677	749	1731155321251800687	ToDoTrackerCLI	728a3941709d0523
